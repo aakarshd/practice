@@ -6,7 +6,9 @@ def main():
         "expertise": [
             "data transformations",
             "data extractions",
-            "building efficient pipelines"
+            "building efficient pipelines",
+            "data analysis",
+            "data visualization"
         ],
         "tools": ["Azure", "Databricks", "Power BI"],
         "goals": "transition into data science by leveraging GenAI and cutting-edge technologies",
