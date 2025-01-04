@@ -2,7 +2,7 @@ def main():
     aakarsh_info = {
         "name": "Aakarsh Jayakar Darla",
         "title": "Business Consultant",
-        "company": "Ernst & Young",
+        "company": "Ernst & Young LLP",
         "expertise": [
             "data transformations",
             "data extractions",
