@@ -1,6 +1,6 @@
 def main():
     aakarsh_info = {
-        "name": "Aakarsh Darla",
+        "name": "Aakarsh Jayakar Darla",
         "title": "Data Analytics Consultant",
         "company": "Ernst & Young",
         "expertise": [
