@@ -1,2 +1,1 @@
-# practice
-meant to test basic functionalities of git
+Hello World ! 
